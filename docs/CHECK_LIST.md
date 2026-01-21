@@ -1,3 +1,4 @@
+---
 Pre release
 * [ ] npm audit and yarn audit is done
 * [ ] Change log has been updated
@@ -21,5 +22,9 @@ Post release
 * [ ] Notified to the users
 * [ ] Sync master and dev branches
 
+Resources
+* [Open GetGems create-domain modal](https://getgems.io/user/UQB_Dp_dw5PvUdSBISG6I2feINxx-StmXMtKnlOioaV1wy0e?modalId=create_domain&setLink=user&setLinkAddress=UQB_Dp_dw5PvUdSBISG6I2feINxx-StmXMtKnlOioaV1wy0e)
+
 To remove tag
 git tag -d <tag_name>
+---
